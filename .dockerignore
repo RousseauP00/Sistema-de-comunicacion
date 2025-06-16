@@ -1,0 +1,8 @@
+# Ignorar dataset pesado
+images/
+*.csv
+
+# Ignorar artefactos de editor / sistema
+.git
+.vscode
+__pycache__/
